@@ -1,7 +1,5 @@
-// Print 1 to N; recursion practice
+// Print 1 to N; recursion easy problems
 // date: 29.11.2021
-
-import java.util.*;
 
 class Main {
     public static void main(String[] args) {
